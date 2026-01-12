@@ -1,4 +1,8 @@
 
+
+// Create a function to find the factorial of a given number 
+
+
 const prompt = require('prompt-sync')();
 
 const num = Number(prompt('Enter a No: '));
